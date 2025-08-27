@@ -10,3 +10,7 @@ body {
     --bg-2: #1f2937;
     --bg-3: #374151;
 }
+
+h2{
+    font-size: 30px !important;
+}
